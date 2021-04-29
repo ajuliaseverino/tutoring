@@ -1,7 +1,0 @@
-README.md
-tut/__init__.py
-tut/basics.py
-tutoring.egg-info/PKG-INFO
-tutoring.egg-info/SOURCES.txt
-tutoring.egg-info/dependency_links.txt
-tutoring.egg-info/top_level.txt
