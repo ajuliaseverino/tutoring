@@ -11,3 +11,5 @@ Longer term, run this as a website
 
 ### Keyboard
 Tap keys, play music
+
+### Auto generate blues
